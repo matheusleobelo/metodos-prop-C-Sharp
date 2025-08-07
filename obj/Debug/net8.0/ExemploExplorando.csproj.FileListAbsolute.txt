@@ -1,0 +1,14 @@
+/home/matheusnote/Documentos/WorkSpace/EstudoC#/ExemploExplorando/bin/Debug/net8.0/ExemploExplorando
+/home/matheusnote/Documentos/WorkSpace/EstudoC#/ExemploExplorando/bin/Debug/net8.0/ExemploExplorando.deps.json
+/home/matheusnote/Documentos/WorkSpace/EstudoC#/ExemploExplorando/bin/Debug/net8.0/ExemploExplorando.runtimeconfig.json
+/home/matheusnote/Documentos/WorkSpace/EstudoC#/ExemploExplorando/bin/Debug/net8.0/ExemploExplorando.dll
+/home/matheusnote/Documentos/WorkSpace/EstudoC#/ExemploExplorando/bin/Debug/net8.0/ExemploExplorando.pdb
+/home/matheusnote/Documentos/WorkSpace/EstudoC#/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheusnote/Documentos/WorkSpace/EstudoC#/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.AssemblyInfoInputs.cache
+/home/matheusnote/Documentos/WorkSpace/EstudoC#/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.AssemblyInfo.cs
+/home/matheusnote/Documentos/WorkSpace/EstudoC#/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.csproj.CoreCompileInputs.cache
+/home/matheusnote/Documentos/WorkSpace/EstudoC#/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.dll
+/home/matheusnote/Documentos/WorkSpace/EstudoC#/ExemploExplorando/obj/Debug/net8.0/refint/ExemploExplorando.dll
+/home/matheusnote/Documentos/WorkSpace/EstudoC#/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.pdb
+/home/matheusnote/Documentos/WorkSpace/EstudoC#/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.genruntimeconfig.cache
+/home/matheusnote/Documentos/WorkSpace/EstudoC#/ExemploExplorando/obj/Debug/net8.0/ref/ExemploExplorando.dll
