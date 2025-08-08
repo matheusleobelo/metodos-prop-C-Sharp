@@ -12,3 +12,4 @@
 /home/matheusnote/Documentos/WorkSpace/EstudoC#/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.pdb
 /home/matheusnote/Documentos/WorkSpace/EstudoC#/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.genruntimeconfig.cache
 /home/matheusnote/Documentos/WorkSpace/EstudoC#/ExemploExplorando/obj/Debug/net8.0/ref/ExemploExplorando.dll
+/home/matheusnote/Documentos/WorkSpace/EstudoC#/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.sourcelink.json

@@ -7,9 +7,18 @@ namespace ExemploExplorando.Models
 {
     public class Pessoa
     {
+        public Pessoa()
+        {
+            
+        }
+        public Pessoa(string nome, int idade)
+        {
+            Nome = nome;
+            Idade = idade;
+        }
         public string Nome
         {
-            get => _nome.ToUpper();           
+            get => _nome.ToUpper();
             set
             {
                 if (value == "")
