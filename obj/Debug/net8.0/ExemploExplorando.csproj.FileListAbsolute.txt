@@ -13,3 +13,6 @@
 /home/matheusnote/Documentos/WorkSpace/EstudoC#/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.genruntimeconfig.cache
 /home/matheusnote/Documentos/WorkSpace/EstudoC#/ExemploExplorando/obj/Debug/net8.0/ref/ExemploExplorando.dll
 /home/matheusnote/Documentos/WorkSpace/EstudoC#/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.sourcelink.json
+/home/matheusnote/Documentos/WorkSpace/EstudoC#/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.csproj.AssemblyReference.cache
+/home/matheusnote/Documentos/WorkSpace/EstudoC#/ExemploExplorando/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/matheusnote/Documentos/WorkSpace/EstudoC#/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.csproj.CopyComplete

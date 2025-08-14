@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "qMW4VVrM0dvT/yra9AEOTGqIxsOtamRE+TtVQObwMF+EzqIrJqdR+s4L4JZzpuTBOXI6GU/QGsI8uz541dwzqA==",
+  "dgSpecHash": "Is0AL65fB5mMiyHPQrJa/mgjAUwK4q8Nnv+oN/rsuLemSXyNyXv7U+GLBC69ExKQP1MOdpLS1dtRodQukWUoFA==",
   "success": true,
   "projectFilePath": "/home/matheusnote/Documentos/WorkSpace/EstudoC#/ExemploExplorando/ExemploExplorando.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/matheusnote/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
