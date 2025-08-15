@@ -7,17 +7,20 @@ namespace ExemploExplorando.Models
 {
     public class Vendas
     {
-        public Vendas(int quantidade, string nome, decimal preco, DateTime data)
+        public Vendas(int quantidade, string nome, decimal preco,decimal? desconto, DateTime data)
         {
-            Quantidade = quantidade;
             Nome = nome;
             Preco = preco;
+            Desconto = desconto;
+            Quantidade = quantidade;
             Data = data;
 
         }
-        public int Quantidade { get; set; }
         public string Nome { get; set; }
         public decimal Preco { get; set; }
+        public decimal? Desconto { get; set; }
+        public int Quantidade { get; set; }
         public DateTime Data { get; set; }
+
     }
 }

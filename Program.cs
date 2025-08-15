@@ -1,20 +1,41 @@
-﻿using ExemploExplorando.Models;
-using Newtonsoft.Json;
+﻿var tipoAnonimo = new { Nome = "Matheus", Sobrenome = "Belo", Altura = 1.65 };
+Console.WriteLine($"Nome: {tipoAnonimo.Nome}");
+Console.WriteLine($"Sobrenome: {tipoAnonimo.Sobrenome}");
+Console.WriteLine($"Altura: {tipoAnonimo.Altura}");
 
-DateTime dataAtual = DateTime.Now;
 
-Vendas v1 = new Vendas(1, "computador", 3000M, dataAtual);
-Vendas v2 = new Vendas(1, "Material de escritório", 25.00M, dataAtual);
-Vendas v3 = new Vendas(2, "Licença de Software", 110.00M, dataAtual);
 
-List<Vendas> listaVendas = new List<Vendas>();
+// using ExemploExplorando.Models;
+// using Newtonsoft.Json;
 
-listaVendas.Add(v1); 
-listaVendas.Add(v2);
-listaVendas.Add(v3);
-string serializado = JsonConvert.SerializeObject(listaVendas, Formatting.Indented);
-File.WriteAllText("Arquivos/vendas.json", serializado);
-Console.WriteLine(serializado);
+// string conteudoArquivos = File.ReadAllText("Arquivos/vendas.json");
+
+// List<Vendas> vendas = JsonConvert.DeserializeObject<List<Vendas>>(conteudoArquivos);
+
+// foreach (Vendas venda in vendas){
+//     Console.WriteLine($"Nome: {venda.Nome}, Preço: {venda.Preco},{(venda.Desconto.HasValue ? $"Desconto: {venda.Desconto}," : "")} Quantidade: {venda.Quantidade} Data: {venda.Data}");
+// }
+
+
+
+
+// using ExemploExplorando.Models;
+// using Newtonsoft.Json;
+
+// DateTime dataAtual = DateTime.Now;
+
+// Vendas v1 = new Vendas(1, "computador", 3000M, dataAtual);
+// Vendas v2 = new Vendas(1, "Material de escritório", 25.00M, dataAtual);
+// Vendas v3 = new Vendas(2, "Licença de Software", 110.00M, dataAtual);
+
+// List<Vendas> listaVendas = new List<Vendas>();
+
+// listaVendas.Add(v1); 
+// listaVendas.Add(v2);
+// listaVendas.Add(v3);
+// string serializado = JsonConvert.SerializeObject(listaVendas, Formatting.Indented);
+// File.WriteAllText("Arquivos/vendas.json", serializado);
+// Console.WriteLine(serializado);
 
 
 

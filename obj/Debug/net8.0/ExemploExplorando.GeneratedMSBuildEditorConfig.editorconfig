@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ExemploExplorando
-build_property.ProjectDir = /home/matheusnotebook/Documentos/WorkSpace/metodos-prop-C-Sharp/
+build_property.ProjectDir = /home/matheusnote/Documentos/WorkSpace/EstudoC#/ExemploExplorando/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
