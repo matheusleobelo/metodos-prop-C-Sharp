@@ -1,0 +1,20 @@
+[
+  {
+    "Quantidade": 1,
+    "Nome": "computador",
+    "Preco": 3000.0,
+    "Data": "2025-08-15T10:41:05.5051117-03:00"
+  },
+  {
+    "Quantidade": 1,
+    "Nome": "Material de escritório",
+    "Preco": 25.00,
+    "Data": "2025-08-15T10:41:05.5051117-03:00"
+  },
+  {
+    "Quantidade": 2,
+    "Nome": "Licença de Software",
+    "Preco": 110.00,
+    "Data": "2025-08-15T10:41:05.5051117-03:00"
+  }
+]

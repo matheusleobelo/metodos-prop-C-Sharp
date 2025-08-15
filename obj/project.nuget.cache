@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Is0AL65fB5mMiyHPQrJa/mgjAUwK4q8Nnv+oN/rsuLemSXyNyXv7U+GLBC69ExKQP1MOdpLS1dtRodQukWUoFA==",
+  "dgSpecHash": "zU/K3Nh5rhA=",
   "success": true,
-  "projectFilePath": "/home/matheusnote/Documentos/WorkSpace/EstudoC#/ExemploExplorando/ExemploExplorando.csproj",
+  "projectFilePath": "/home/matheusnotebook/Documentos/WorkSpace/metodos-prop-C-Sharp/ExemploExplorando.csproj",
   "expectedPackageFiles": [
-    "/home/matheusnote/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+    "/home/matheusnotebook/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }

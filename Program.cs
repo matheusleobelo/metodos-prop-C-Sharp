@@ -1,11 +1,26 @@
 ﻿using ExemploExplorando.Models;
 using Newtonsoft.Json;
 
-Vendas v1 = new Vendas(1, "computador", 3000M);
+DateTime dataAtual = DateTime.Now;
 
-string Serializado = JsonConvert.SerializeObject(v1, Formatting.Indented);
+Vendas v1 = new Vendas(1, "computador", 3000M, dataAtual);
+Vendas v2 = new Vendas(1, "Material de escritório", 25.00M, dataAtual);
+Vendas v3 = new Vendas(2, "Licença de Software", 110.00M, dataAtual);
 
-Console.WriteLine(Serializado);
+List<Vendas> listaVendas = new List<Vendas>();
+
+listaVendas.Add(v1); 
+listaVendas.Add(v2);
+listaVendas.Add(v3);
+string serializado = JsonConvert.SerializeObject(listaVendas, Formatting.Indented);
+File.WriteAllText("Arquivos/vendas.json", serializado);
+Console.WriteLine(serializado);
+
+
+
+
+
+
 
 //ternario
 // int numero = 20;

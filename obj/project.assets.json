@@ -55,19 +55,19 @@
     ]
   },
   "packageFolders": {
-    "/home/matheusnote/.nuget/packages/": {}
+    "/home/matheusnotebook/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/matheusnote/Documentos/WorkSpace/EstudoC#/ExemploExplorando/ExemploExplorando.csproj",
+      "projectUniqueName": "/home/matheusnotebook/Documentos/WorkSpace/metodos-prop-C-Sharp/ExemploExplorando.csproj",
       "projectName": "ExemploExplorando",
-      "projectPath": "/home/matheusnote/Documentos/WorkSpace/EstudoC#/ExemploExplorando/ExemploExplorando.csproj",
-      "packagesPath": "/home/matheusnote/.nuget/packages/",
-      "outputPath": "/home/matheusnote/Documentos/WorkSpace/EstudoC#/ExemploExplorando/obj/",
+      "projectPath": "/home/matheusnotebook/Documentos/WorkSpace/metodos-prop-C-Sharp/ExemploExplorando.csproj",
+      "packagesPath": "/home/matheusnotebook/.nuget/packages/",
+      "outputPath": "/home/matheusnotebook/Documentos/WorkSpace/metodos-prop-C-Sharp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/matheusnote/.nuget/NuGet/NuGet.Config"
+        "/home/matheusnotebook/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -85,6 +85,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -112,7 +117,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.118/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.413/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
